@@ -9,7 +9,7 @@ This is a carousel plugin.
 <script src="./carousel.js"></script>
 ```
 
-Then, in you html:
+Then, in your code:
 
 ```html
 <div class="carousel">
